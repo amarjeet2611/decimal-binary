@@ -13,6 +13,4 @@ while(n!=0){
     i++;
 }
 cout<< "Answer is " << ans <<endl;
-
-
 }
